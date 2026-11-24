@@ -217,31 +217,6 @@ streamlit run app.py
 
 The application will open in your browser.
 
-## Screenshots
-
-Application screenshots will be added here.
-
-### Main Application
-<!-- Add main application screenshot here -->
-
-### Grad-CAM Visualization
-<!-- Add Grad-CAM screenshot here -->
-
-### Model Performance Dashboard
-<!-- Add model performance screenshot here -->
-
-### Confusion Matrix
-<!-- Add confusion matrix screenshot here -->
-
-## Future Enhancements
-
-- Explore additional deep learning architectures.
-- Improve classification performance for challenging disease categories.
-- Optimize model inference speed.
-- Investigate model deployment and scalability.
-- Explore additional explainability techniques.
-- Evaluate performance on independent external datasets.
-
 ## Disclaimer
 
 RetinaAI is an educational and experimental deep learning project developed for research and learning purposes.
