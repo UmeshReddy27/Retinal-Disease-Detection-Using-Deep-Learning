@@ -1,0 +1,75 @@
+{
+    "accuracy": 0.956,
+    "classification_report": {
+        "CNV": {
+            "precision": 0.9087591240875912,
+            "recall": 0.996,
+            "f1-score": 0.950381679389313,
+            "support": 250.0
+        },
+        "DME": {
+            "precision": 0.9724409448818898,
+            "recall": 0.988,
+            "f1-score": 0.9801587301587301,
+            "support": 250.0
+        },
+        "DRUSEN": {
+            "precision": 0.9818181818181818,
+            "recall": 0.864,
+            "f1-score": 0.9191489361702128,
+            "support": 250.0
+        },
+        "NORMAL": {
+            "precision": 0.9682539682539683,
+            "recall": 0.976,
+            "f1-score": 0.9721115537848606,
+            "support": 250.0
+        },
+        "accuracy": 0.956,
+        "macro avg": {
+            "precision": 0.9578180547604078,
+            "recall": 0.956,
+            "f1-score": 0.9554502248757791,
+            "support": 1000.0
+        },
+        "weighted avg": {
+            "precision": 0.9578180547604077,
+            "recall": 0.956,
+            "f1-score": 0.9554502248757791,
+            "support": 1000.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            249,
+            1,
+            0,
+            0
+        ],
+        [
+            3,
+            247,
+            0,
+            0
+        ],
+        [
+            22,
+            4,
+            216,
+            8
+        ],
+        [
+            0,
+            2,
+            4,
+            244
+        ]
+    ],
+    "class_names": [
+        "CNV",
+        "DME",
+        "DRUSEN",
+        "NORMAL"
+    ],
+    "test_samples": 1000
+}
