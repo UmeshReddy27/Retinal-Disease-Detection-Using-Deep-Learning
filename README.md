@@ -203,7 +203,7 @@ pip install -r requirements.txt
 
 The trained model checkpoints are hosted separately on Google Drive because of their file sizes.
 
-**[Download RetinaAI Model Checkpoints — GOOGLE DRIVE LINK TO BE ADDED]**
+**[[Download RetinaAI Model Checkpoints — GOOGLE DRIVE LINK TO BE ADDED]](https://drive.google.com/drive/folders/1UAOd_yxYmWgnoUr1iC9a8Mht9HNPUA2C?usp=sharing)**
 
 Download all five `.pth` files and place them inside the `modules/` directory.
 
